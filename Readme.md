@@ -1,0 +1,1 @@
+npm install --save react react-dom gulp browserify reactify vinyl-source-stream
